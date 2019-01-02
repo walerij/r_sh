@@ -1,0 +1,6 @@
+E:\download\project\r_sh\sharp\sharp\bin\Debug\sharp.exe.config
+E:\download\project\r_sh\sharp\sharp\bin\Debug\sharp.exe
+E:\download\project\r_sh\sharp\sharp\bin\Debug\sharp.pdb
+E:\download\project\r_sh\sharp\sharp\obj\Debug\sharp.csprojResolveAssemblyReference.cache
+E:\download\project\r_sh\sharp\sharp\obj\Debug\sharp.exe
+E:\download\project\r_sh\sharp\sharp\obj\Debug\sharp.pdb
